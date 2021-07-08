@@ -64,14 +64,16 @@
   <a href="https://github.com/sagazirobiul/github-readme-stats"><img alt="Gazi Robiul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagazirobiul&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
 <br/>
 <br/>
 
 <a href="https://github.com/sagazirobiul/github-readme-activity-graph"><img alt="Gazi Robiul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sagazirobiul&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-##❤ Views and Followers
 <br/>
+
+##❤ Views and Followers
 <a href="https://github.com/sagazirobiul/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sagazirobiul">
 </a>
