@@ -19,10 +19,16 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/sagazirobiul/"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a>
+<!-- <a href = "https://www.linkedin.com/in/sagazirobiul/"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/sagazirobiul/"><img src="https://img.icons8.com/color/40/000000/facebook-new.png"/></a>
 <a href = "https://twitter.com/sagazirobiul"><img src="https://img.icons8.com/fluent/40/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/sagazirobiul/"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/sagazirobiul/"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/></a> -->
+    
+[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/sagazirobiul/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/sagazirobiul)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Questions-orange)](https://stackoverflow.com/users/16023434/gazi-robiul-alam-sagor)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Connect%20with%20Me-blue)](https://www.linkedin.com/in/sagazirobiul/)
+[![](https://img.shields.io/static/v1?label=Abdallah_Daiyan&logo=github&message=Follow&color=black)](https://github.com/sagazirobiul)
 
 
 </p>
