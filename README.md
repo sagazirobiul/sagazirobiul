@@ -19,10 +19,10 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/sagazirobiul/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/sagazirobiul/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-<a href = "https://twitter.com/sagazirobiul"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/sagazirobiul/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/sagazirobiul/"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/sagazirobiul/"><img src="https://img.icons8.com/color/40/000000/facebook-new.png"/></a>
+<a href = "https://twitter.com/sagazirobiul"><img src="https://img.icons8.com/fluent/40/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/sagazirobiul/"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/></a>
 
 
 </p>
