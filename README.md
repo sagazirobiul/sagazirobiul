@@ -28,7 +28,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/sagazirobiul)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Questions-orange)](https://stackoverflow.com/users/16023434/gazi-robiul-alam-sagor)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Connect%20with%20Me-blue)](https://www.linkedin.com/in/sagazirobiul/)
-[![](https://img.shields.io/static/v1?label=Abdallah_Daiyan&logo=github&message=Follow&color=black)](https://github.com/sagazirobiul)
+[![](https://img.shields.io/static/v1?label=Gazi_Robiul&logo=github&message=Follow&color=black)](https://github.com/sagazirobiul)
 
 
 </p>
