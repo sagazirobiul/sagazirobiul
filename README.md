@@ -71,6 +71,7 @@
 
 <br/>
 ## ❤ Views and Followers
+<br/>
 <a href="https://github.com/sagazirobiul/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sagazirobiul">
 </a>
