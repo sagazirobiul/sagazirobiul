@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `.svg`, `.psd`.
+- ⚙️ I use daily: `.html`, `.css`, `.js`, `.svg`, `.psd`, `xd`.
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
