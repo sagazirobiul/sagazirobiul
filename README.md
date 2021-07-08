@@ -6,7 +6,7 @@
 
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.svg`, `.psd`.
 
-- 🌱 I’m currently learning **React Native.**
+- 🌱 I’m currently learning **Tailwind CSS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
