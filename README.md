@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://progazi.netlify.app/)**
 
-- 📫 Reach me: [Facebook](https://www.facebook.com/sagazirobiul/), [Email](mailto:sagazirobiul@gmail.com/)
+- 📫 Reach me: [Facebook](https://www.facebook.com/sagazirobiul/), [Email](mailto:sagazirobiul@gmail.com)
 
 - ⚡ Fun fact **I love playing video games.**
 
