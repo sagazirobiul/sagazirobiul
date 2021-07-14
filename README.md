@@ -14,7 +14,7 @@
 
 - 📫 Reach me: [Facebook](https://www.facebook.com/sagazirobiul/), [Email](mailto:sagazirobiul@gmail.com)
 
-- ⚡ Fun fact **I love playing video games.**
+- ⚡ Fun fact **I want to learn all programming languages**🤣
 
 ## Connect with me:
 <p align="left">
