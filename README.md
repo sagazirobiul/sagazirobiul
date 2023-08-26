@@ -67,13 +67,6 @@
   
 <br/>
 <br/>
-
-<a href="https://github.com/sagazirobiul/github-readme-activity-graph"><img alt="Gazi Robiul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sagazirobiul&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-
 ## ❤ Views and Followers
 
 <a href="https://github.com/sagazirobiul/github-profile-views-counter">
