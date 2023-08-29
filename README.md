@@ -57,7 +57,6 @@
     </a>
 </p>
 <br/>
-<br/>
 ## ❤ Views and Followers
 
 <a href="https://github.com/sagazirobiul/github-profile-views-counter">
