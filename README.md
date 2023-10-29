@@ -6,7 +6,7 @@
 
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.svg`, `.psd`, `xd`.
 
-- 🌱 I’m currently learning **Typescript**
+<!-- - 🌱 I’m currently learning **Typescript** -->
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
